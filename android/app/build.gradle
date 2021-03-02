@@ -29,10 +29,10 @@ android {
     compileSdkVersion 29
     signingConfigs {
         release {
-            keyAlias 'flutter'
-            keyPassword '1234561'
-            storeFile file('./flutter.jks')
-            storePassword '1234561'
+            keyAlias ''
+            keyPassword ''
+            storeFile file('')
+            storePassword ''
         }
     }
     sourceSets {
